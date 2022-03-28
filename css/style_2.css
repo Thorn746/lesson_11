@@ -1,0 +1,27 @@
+@import url("null.css");
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    padding: 50px;
+}
+
+.header {
+}
+.block {
+}
+.block__item {
+    padding: 15px;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
+.block__item-color-brown {
+    background-color: #794f45;
+}
+.block__item-color-purple {
+    background-color: #77608d;
+}
+.block__item-color-green {
+    background-color: #7a956b;
+}
